@@ -51,7 +51,7 @@ div p {
   border-radius: 5px;
 }
 
-div .info {
+.info {
   position: fixed;
   background-color: #111111;
   bottom: 0;
